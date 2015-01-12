@@ -1,0 +1,45 @@
+# Translation of the WordPress plugin Optin Comment Notifications v1.0 by Scott Reilly.
+# Copyright (C) 2014 Scott Reilly
+# This file is distributed under the same license as the Optin Comment Notifications plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Optin Comment Notifications 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/optin-comment-"
+"notifications\n"
+"POT-Creation-Date: 2015-01-12 23:38:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: optin-comment-notifications.php:206
+msgid "New Comment Emails"
+msgstr ""
+
+#: optin-comment-notifications.php:210
+msgid "Email me whenever a comment is submitted to the site."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Optin Comment Notifications"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://coffee2code.com/wp-plugins/optin-comment-notifications/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows users to opt into receiving a notification whenever a comment is made "
+"to the site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott Reilly"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://coffee2code.com/"
+msgstr ""
